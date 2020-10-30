@@ -31,5 +31,4 @@ public class PropertyValueController {
         propertyValueService.update(bean);
         return bean;
     }
-
 }
