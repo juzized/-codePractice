@@ -48,4 +48,5 @@ public class ProductImageService   {
         for (Product product : products)
             setFirstProdutImage(product);
     }
+
 }
